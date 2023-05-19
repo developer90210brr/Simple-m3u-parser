@@ -7,6 +7,7 @@ The `M3UParser` class allows parsing M3U files and extracting relevant informati
 1. Import the required libraries:
 
     ```python
+    from m3u_parser import M3UParser
     import requests
     import re
     ```
